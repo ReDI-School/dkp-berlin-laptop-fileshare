@@ -1,4 +1,4 @@
-# ReDI Kids File Share Repository – Berlin
+# DKP Berlin File Share Repository
 
 Welcome to the **ReDI Kids Program File Share Repository**! This repository is used to securely distribute educational materials and resources to the laptops used in the ReDI Kids program in Berlin.
 
