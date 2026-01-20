@@ -45,4 +45,4 @@ This repository is a **one-way file share**: files are added by the program team
 
 ## 📞 Contact
 
-For questions or issues, please email: **kids@redi-school.org**
+**kids@redi-school.org**
