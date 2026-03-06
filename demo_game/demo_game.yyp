@@ -19,9 +19,12 @@
   },
   "name":"demo_game",
   "resources":[
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"oDeinObjekt","path":"objects/oDeinObjekt/oDeinObjekt.yy",},},
+    {"id":{"name":"oNinja","path":"objects/oNinja/oNinja.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"sDeineSprite","path":"sprites/sDeineSprite/sDeineSprite.yy",},},
+    {"id":{"name":"sNinja","path":"sprites/sNinja/sNinja.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
